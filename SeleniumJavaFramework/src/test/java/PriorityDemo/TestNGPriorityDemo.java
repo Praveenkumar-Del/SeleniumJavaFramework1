@@ -26,3 +26,7 @@ public class TestNGPriorityDemo {
 		System.out.println("I am Inside Test3");
 	}
 }
+
+
+// Include and Exclude mvn tests
+//http://maven.apache.org/surefire/maven-surefire-plugin/examples/inclusion-exclusion.html
